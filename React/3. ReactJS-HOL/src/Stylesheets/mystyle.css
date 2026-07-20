@@ -1,0 +1,46 @@
+body{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    text-align: center;
+    margin-top: 80px;
+}
+
+h1{
+    color: brown;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+/* Labels */
+.name{
+    color: darkblue;
+    font-weight: bold;
+}
+
+.school{
+    color: red;
+    font-weight: bold;
+}
+
+.total{
+    color: blueviolet;
+    font-weight: bold;
+}
+
+.goal{
+    color: green;
+    font-weight: bold;
+}
+
+/* Values */
+.value{
+    font-weight: bold;
+}
+
+p{
+    margin: 6px;
+    font-size: 18px;
+}
